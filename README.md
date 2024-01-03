@@ -45,4 +45,5 @@
 </p>
 </div>
 
-
+<h2>Acknowledgements</h2>
+<p>I would like to acknowledge <a href="https://github.com/calsgeo">Camilo Leon Sanchez</a> who provided the original CitySim XML generator Python script.</p>
